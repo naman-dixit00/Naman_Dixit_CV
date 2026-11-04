@@ -103,4 +103,3 @@ Developing computational inverse-imaging frameworks at the intersection of Physi
 ## ✦ ADDITIONAL ACTIVITIES
 * **Aspire Institute:** Participated in a 9-week AI-driven leadership curriculum; earned 98/100 *(Mar 2026)*.
 * **The Vision Lab, IISc Bangalore:** Cognitive Neuroscience Volunteer *(Dec 2025)*
-* 
